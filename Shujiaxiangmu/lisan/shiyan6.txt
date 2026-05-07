@@ -1,0 +1,8 @@
+E B
+a b
+3
+E -> BB
+B -> aB
+B -> b
+E
+bab

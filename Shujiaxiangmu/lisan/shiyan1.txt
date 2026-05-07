@@ -1,0 +1,14 @@
+int main() { 
+//fhasukafgayisfh
+int x = 10;
+double y=x+ -5.0;
+/* fgsiy
+fvdsyf 
+*/
+if (y >= -10)
+{X += 1;} 
+else 
+{1erhthx -= 1;
+x=     -y;
+x=-y;
+}}

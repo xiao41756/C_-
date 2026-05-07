@@ -1,0 +1,13 @@
+E S T Q F
++ * ( ) a
+8
+E -> TS
+S -> +TS
+S -> #
+T -> FQ
+Q -> *FQ
+Q -> #
+F -> (E)
+F -> a
+E
+a+a*a
