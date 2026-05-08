@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.example</groupId>
+  <artifactId>zuoye1</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>Archetype - zuoye1</name>
+  <url>http://maven.apache.org</url>
+
+  <dependencies>
+    <!-- MySQL JDBC 驱动 -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.29</version>
+    </dependency>
+    <!-- 其他依赖 -->
+  </dependencies>
+</project>
